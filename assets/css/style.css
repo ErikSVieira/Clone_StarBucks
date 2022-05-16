@@ -76,6 +76,10 @@ section .sobre{
     font-size: 50px;
 }
 
+.textoSobre span{
+    color: #017143;
+}
+
 .textoSobre p{
     margin: 20px 0;
     color: black;
